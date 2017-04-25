@@ -7,7 +7,7 @@ Currently working features:
 - Reworked "Happy Workers" option, it's now divided to few others*
 - Added option to unlock all space tiles
 - Added option to unlock furniture
--*Now you have seperate options to:
+- *Now you have seperate options to:
 - Disable/Lock Stress
 - Disable/Lock Needs
 - Full Efficiency and Satisfaction
