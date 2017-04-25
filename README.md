@@ -7,7 +7,7 @@ Currently working features:
 - Reset age of employees
 - Max skill of employees
 - Lock age of employees
-- Happy Workers = Reduced stress factor, Effectiveness is 1000, Satisfaction is 100
+- Happy Workers = Reduced stress factor, Reduced social factor, Effectiveness is 1000, Satisfaction is 100
 
 Download Trainer.dll and put in the DLLMods folder in your Software Inc directory
 Report bugs and give me suggestions which should I add in the next update.
