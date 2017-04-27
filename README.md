@@ -1,6 +1,11 @@
 This Trainer is for Software Inc game. It's based on https://github.com/hrkrx/SoftwareIncDLLModifications by hrkrx
 
 Currently working features:
+28.04.2017. for Alpha v9.6.6
+- Increased Max Floors to 20
+- Added option to takeover a simulated company for free
+- Fixed bug in No Vacation option
+
 27.04.2017. for Alpha v9.6.6
 - Settings are now saved so you don't need to enable it every time you load game
 - Added option to disable salary for staff
