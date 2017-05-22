@@ -6,6 +6,8 @@ Currently working features:
 - Set stock for your product (replace Sell stock option)
 - Set active users for your product
 - Subsdiary a company for free
+- Increased loan amount
+- Increased Max Floors to 25
 - Some minor fixes
 
 08.05.2017. for Alpha 9.6.6
