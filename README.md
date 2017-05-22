@@ -5,7 +5,7 @@ Currently working features:
 - Separate GUI for Trainer, buttons are not anymore in Options>Mods>Trainer_v2
 - Set stock for your product (replace Sell stock option)
 - Set active users for your product
-- Subsdiary a company for free
+- Subsidiary a company for free
 - Increased loan amount
 - Increased Max Floors to 25
 - Some minor fixes
