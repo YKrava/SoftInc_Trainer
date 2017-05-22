@@ -1,6 +1,13 @@
 This Trainer is for Software Inc game. It's based on https://github.com/hrkrx/SoftwareIncDLLModifications by hrkrx
 
 Currently working features:
+22.05.2017. for Alpha 9.7.4
+- Separate GUI for Trainer, buttons are not anymore in Options>Mods>Trainer_v2
+- Set stock for your product (replace Sell stock option)
+- Set active users for your product
+- Subsdiary a company for free
+- Some minor fixes
+
 08.05.2017. for Alpha 9.6.6
 - Added product price adjuster
 - Sell stocks of your product in half of price if you have userbase less than 1000
