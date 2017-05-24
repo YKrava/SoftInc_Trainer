@@ -1,6 +1,9 @@
 This Trainer is for Software Inc game. It's based on https://github.com/hrkrx/SoftwareIncDLLModifications by hrkrx
 
 Currently working features:
+24.05.2017. for Alpha 9.7.4
+- Fixed "Trainer" button that shown in wrong place with other resolutions
+
 22.05.2017. for Alpha 9.7.4
 - Separate GUI for Trainer, buttons are not anymore in Options>Mods>Trainer_v2
 - Set stock for your product (replace Sell stock option)
