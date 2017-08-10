@@ -1,0 +1,67 @@
+Description of each option:
+- Add money: Type amount that you want to add (add minus to subtract) and press the button, (max value is 1000000000)
+- Add reputation: Type amount that you want to add (add minus to subtract) and press the button, press more to get high reputation in all fields, (max value is 1000000000)
+- Product name: This cell and cell right to it is for multiple options, but it applies only to your products, not from other company
+- Set product price: Type product name and type price into the box, press the button to ajdust the price
+- Set product stock: Type product name and type stock number into the box, press the button to ajdust the product stock (value is replaced)
+- Max followers: Type product name, press the button to add maximum possible followers for that product, it's only when you in alpha development stage
+- Fix bugs: Type product name, press the button to fix all bugs for that product, it's only when you in beta development stage
+- Max code: Type product name, press the button to set maximum code units for that product, it's only when you in alpha development stage, quality of that code is based on skill of your employees
+- Max art: Type product name, press the button to set maximum art units for that product, it's only when you in alpha development stage, quality of that code is based on skill of your employees
+- Company name: This cell is for name of the company that you want to takeover or to be your subsidiary or to bankrupt that company
+- Takeover company: Type company name, press the button and you will takeover that company
+- Subsidiary company: Type company name, press the button and you will subsidiary that company
+- Bankrupt company: Type company name, press the button and you set bankrupt that company
+- AI bankrupt all: This button is for option to set all AI companies bankrupt
+- Clear all loans: This button removes your loans (if you have any) without any fee
+- HR leaders: Train all leaders in HR (Human Resources) managment
+- Max Skills of Employees: Trains all employees in all fields of specialization
+- Remove products: This option removes (transfer) product that you own but didn't invented it (takovered company). Only works when you have active users 0 (zero)
+- Reset age of employees: This options reset age of all employees to 20 years
+- Sell products stock: This options sells all stock for your products that have 0 (zero) active users in half of price of your product
+- Unlock all furniture: Unlocks all furniture, it will say that is still locked but you can use them
+- Unlock all space: All are that is buildable is now unlocked for free
+- Maximum floors to build is 75
+- Loan maximum values are increased
+- Disable Needs: Disable all needs for employees (Hunger, bladder, social, etc)
+- Disable Stress: Disable stress for employees, they will not complain any more about it
+- Free employees: No salary for employees
+- Free staff: No salary for staff
+- Full efficiency: Employees efficiency is always 200% but for leader is 400%
+- Full satisfaction: Employees satisfaction is always 100%
+- Lock age of employees: Current age is locked so your employees doesn't get older
+- No vacation: When this option is enabled, vacation is every year setted up to 2 year in advance
+- No sickness: Employees are never sickness
+- Ultra efficiency: To get this working, first enable "full efficiency" option. It's the same but now your employees work at 1000% of efficiency and leaders at 2000%
+- Full environment: This option is used to set room environment to 200% (Maybe it can get lower if your room is very dirty)
+- Full sun light: This option is to increase sun light that goes through windows so you don't need many of them.
+- Lock temperature to 21: Lock your room temperature to 21°C, now you don't need AC/Heater
+- No maintenance: Everything is always fixed up, nothing is never broken
+- Noise reduction: It's reducing employees and furniture noise to minimum
+- Room are always clean: Who need cleaners? Fire them with this option because rooms never get dirty again
+- Auto distribution deals: You get automatic distribution deals by force. You need servers. *
+
+- * if company has less than 10 million $, deal is 5%
+
+- * if company has more than 10 million $ but less than 100 million $, deal is 10%
+
+- * if company has more than 100 million $ but less than 250 million $, deal is 15%
+
+- * if company has more than 250 million$ but less than 500 million $, deal is 20%
+
+- * if company has more than 500 million $ but less than 1 billion $, deal is 25%
+
+- * if company has more than 1 billion $, deal is 30%
+- Free print: Printing is now free
+- Free water & electricity: Reduce your bills with this option
+- Increase bookshelf skill: It's increasing skill that your employees gain when you have bookshelf in rooms
+- Increase courier capacity: Increase capacity for couriers by doubling it. From 54 to 110 boxes
+- Increase print speed: Increase print speed by doubling it
+- More hosting deals: You get more hosting deals now, you don't need receptionist. *
+
+- * Deals are "spawned" at 9 and 15 o'clock if product meet some requirements *
+
+- * (Active users are larger than 0, Product need hosting, Product doesn't have any hosting active and that product is not yours)
+
+- * You get extra bonus for any active server deals (between 500$ and 50000$ per deal)
+- Reduce internet cost: Reduce internet bills in half. This option may cause that you get lower hosting offers now.
